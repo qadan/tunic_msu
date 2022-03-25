@@ -1,0 +1,775 @@
+{
+  "$schema": "https://raw.githubusercontent.com/qwertymodo/msupcmplusplus/master/configs/schema#",
+  "game": "The Legend of Zelda: A Link to the Past",
+  "pack": "TUNIC",
+  "artist": "Lifeformed x Janice Kwan",
+  "url": "https://store.steampowered.com/app/1928140/TUNIC_Original_Game_Soundtrack/",
+  "output_prefix": "tunic_msu",
+  "normalization": -10,
+  "tracks": [
+    {
+      "track_number": 1,
+      "title": "Title ~ Link to the Past",
+      "file": "music_main#171 (MST_mus_theme_intro).flac",
+      "trim_start": 24280,
+      "trim_end": 816971,
+      "fade_out": 10000
+    },
+    {
+      "track_number": 2,
+      "title": "Hyrule Field",
+      "sub_tracks": [
+        {
+          "file": "music_main#173 (MST_mus_overworld_main_intro).flac"
+        },
+        {
+          "file": "music_main#99 (MST_mus_overworld_main_loop).flac"
+        }
+      ],
+      "loop": 1058458
+    },
+    {
+      "track_number": 3,
+      "title": "Time of the Falling Rain",
+      "sub_tracks": [
+        {
+          "file": "music_main#17 (MST_mus_temple_0hex_intro).flac"
+        },
+        {
+          "file": "music_main#191 (MST_mus_temple_0hex_loop).flac"
+        }
+      ],
+      "loop": 352801
+    },
+    {
+      "track_number": 4,
+      "title": "The Silly Pink Rabbit!",
+      "sub_tracks": [
+        {
+          "file": "music_main#40 (MST_mus_garden_mainNight_intro).flac"
+        },
+        {
+          "file": "music_main#200 (MST_mus_garden_mainNight_loop).flac"
+        }
+      ],
+      "loop": 1653854
+    },
+    {
+      "track_number": 5,
+      "title": "Forest of Mystery",
+      "sub_tracks": [
+        {
+          "file": "music_main#28 (MST_mus_forest_main_intro).flac"
+        },
+        {
+          "file": "music_main#90 (MST_mus_forest_main_loop).flac"
+        }
+      ],
+      "loop": 3677200
+    },
+    {
+      "track_number": 6,
+      "title": "Seal of Seven Maidens",
+      "sub_tracks": [
+        {
+          "file": "music_main#45 (MST_mus_overworldInterior_trophyRoom_intro).flac"
+        },
+        {
+          "file": "music_main#183 (MST_mus_overworldInterior_trophyRoom_loop).flac"
+        }
+      ],
+      "loop": 1169809
+    },
+    {
+      "track_number": 7,
+      "title": "Kakariko Village",
+      "sub_tracks": [
+        {
+          "file": "music_main#175 (MST_mus_overworldInterior_oldHouse_intro).flac"
+        },
+        {
+          "file": "music_main#33 (MST_mus_overworldInterior_oldHouse_loop).flac"
+        }
+      ],
+      "loop": 132301
+    },
+    {
+      "track_number": 8,
+      "title": "Teleport",
+      "file": "sfx_main#798 (gen_prop_int_savepoint_use).flac"
+    },
+    {
+      "track_number": 9,
+      "title": "Dark Golden Land",
+      "sub_tracks": [
+        {
+          "file": "music_main#74 (MST_mus_garden_main_intro).flac"
+        },
+        {
+          "file": "music_main#21 (MST_mus_garden_main_loop).flac"
+        }
+      ],
+      "loop": 1417368
+    },
+    {
+      "track_number": 10,
+      "title": "Unsealing the Master Sword",
+      "file": "sfx_main#610 (gen_prop_int_mountain_doorOpen).flac",
+      "trim_end": 519000,
+      "fade_in": 500,
+      "fade_out": 50000
+    },
+    {
+      "track_number": 11,
+      "title": "Beginning of the Journey",
+      "sub_tracks": [
+        {
+          "file": "music_main#84 (MST_mus_changingroom_intro).flac"
+        },
+        {
+          "file": "music_main#109 (MST_mus_changingroom_loop).flac"
+        }
+      ],
+      "loop": 664297
+    },
+    {
+      "track_number": 12,
+      "title": "Soldiers of Kakariko Village",
+      "sub_tracks": [
+        {
+          "file": "music_main#153 (mus_purgatory_intro).flac"
+        },
+        {
+          "file": "music_main#146 (mus_purgatory_loop).flac"
+        }
+      ],
+      "loop": 740881
+    },
+    {
+      "track_number": 13,
+      "title": "Black Mist",
+      "sub_tracks": [
+        {
+          "file": "music_main#210 (MST_mus_mountain_screen1_intro).flac"
+        },
+        {
+          "file": "music_main#68 (MST_mus_mountain_screen1_loop).flac"
+        }
+      ],
+      "loop": 672000
+    },
+    {
+      "track_number": 14,
+      "title": "Guessing Game House",
+      "sub_tracks": [
+        {
+          "file": "music_main#65 (MST_mus_dusty_intro).flac"
+        },
+        {
+          "file": "music_main#117 (MST_mus_dusty_loop).flac"
+        }
+      ],
+      "loop": 3386881
+    },
+    {
+      "track_number": 15,
+      "title": "Dark Woods",
+      "sub_tracks": [
+        {
+          "file": "music_main#195 (MST_mus_swamp_main_intro).flac"
+        },
+        {
+          "file": "music_main#123 (MST_mus_swamp_main_loop).flac"
+        }
+      ],
+      "loop": 5080321
+    },
+    {
+      "track_number": 16,
+      "title": "Majestic Castle",
+      "sub_tracks": [
+        {
+          "file": "music_main#104 (mus_mysteryB_intro).flac"
+        },
+        {
+          "file": "music_main#46 (mus_mysteryB_loop).flac"
+        }
+      ],
+      "loop": 1078625
+    },
+    {
+      "track_number": 17,
+      "title": "Dungeon (LW)",
+      "sub_tracks": [
+        {
+          "file": "music_main#13 (MST_mus_library_main_intro).flac"
+        },
+        {
+          "file": "music_main#86 (MST_mus_library_main_loop).flac"
+        }
+      ],
+      "loop": 653343
+    },
+    {
+      "track_number": 18,
+      "title": "Dank Dungeons",
+      "sub_tracks": [
+        {
+          "file": "music_main#35 (mus_temp_overworldCave_intro).flac"
+        },
+        {
+          "file": "music_main#53 (mus_temp_overworldCave_loop).flac"
+        }
+      ],
+      "loop": 192437
+    },
+    {
+      "track_number": 19,
+      "title": "Great Victory!",
+      "file": "music_main#159 (MST_mus_spiritrealm_relicvoid_seq_powerupGetAll).flac",
+      "trim_start": 198413,
+      "trim_end": 702432,
+      "fade_out": 90000,
+      "normalization": 0
+    },
+    {
+      "track_number": 20,
+      "title": "Safety in the Sanctuary",
+      "sub_tracks": [
+        {
+          "file": "music_main#164 (MST_mus_libraryExterior_intro).flac"
+        },
+        {
+          "file": "music_main#82 (MST_mus_libraryExterior_loop).flac"
+        }
+      ],
+      "loop": 264601
+    },
+    {
+      "track_number": 21,
+      "title": "Boss Fight",
+      "sub_tracks": [
+        {
+          "file": "music_main#48 (MST_mus_forest_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#108 (MST_mus_forest_miniboss_loop).flac"
+        }
+      ],
+      "loop": 381024
+    },
+    {
+      "track_number": 22,
+      "title": "Dungeon (DW)",
+      "sub_tracks": [
+        {
+          "file": "music_main#100 (MST_mus_crypt_intro).flac"
+        },
+        {
+          "file": "music_main#212 (MST_mus_crypt_loop).flac"
+        }
+      ],
+      "loop": 1058401
+    },
+    {
+      "track_number": 23,
+      "title": "Fortune Teller",
+      "sub_tracks": [
+        {
+          "file": "music_main#56 (MST_mus_shop_intro).flac"
+        },
+        {
+          "file": "music_main#106 (MST_mus_shop_loop).flac"
+        }
+      ],
+      "loop": 395663
+    },
+    {
+      "track_number": 24,
+      "title": "Dank Dungeons",
+      "sub_tracks": [
+        {
+          "file": "music_main#9 (MST_mus_spiritArena_foxgodAbsent_intro).flac"
+        },
+        {
+          "file": "music_main#138 (MST_mus_spiritArena_foxgodAbsent_loop).flac"
+        }
+      ],
+      "loop": 940801
+    },
+    {
+      "track_number": 26,
+      "title": "Meeting the Maidens",
+      "sub_tracks": [
+        {
+          "file": "music_main#192 (MST_mus_spiritrealm_firstdeath_intro).flac"
+        },
+        {
+          "file": "music_main#170 (MST_mus_spiritrealm_firstdeath_loop).flac"
+        }
+      ],
+      "loop": 2351985,
+      "normalization": 0
+    },
+    {
+      "track_number": 27,
+      "title": "The Goddess Appears",
+      "sub_tracks": [
+        {
+          "file": "music_main#205 (mus_waterfall_intro).flac"
+        },
+        {
+          "file": "music_main#193 (mus_waterfall_loop).flac"
+        }
+      ],
+      "loop": 1587601
+    },
+    {
+      "track_number": 28,
+      "title": "Priest of the Dark Order",
+      "sub_tracks": [
+        {
+          "file": "music_main#211 (MST_mus_spiritArena_foxgodPresent_intro).flac"
+        },
+        {
+          "file": "music_main#121 (MST_mus_spiritArena_foxgodPresent_loop).flac"
+        }
+      ],
+      "loop": 940801
+    },
+    {
+      "track_number": 29,
+      "title": "Ganon Reveals Himself",
+      "file": "music_main#143 (mus_spiritrealm_firstdeath_foxgodCutscene).flac",
+      "trim_end": 623797,
+      "fade_out": 125000
+    },
+    {
+      "track_number": 30,
+      "title": "Ganon's Message",
+      "sub_tracks": [
+        {
+          "file": "music_main#22 (MST_mus_spiritrealm_foxgodBetrayal_intro).flac"
+        },
+        {
+          "file": "music_main#152 (MST_mus_spiritrealm_foxgodBetrayal_loop).flac"
+        }
+      ],
+      "loop": 1164976
+    },
+    {
+      "track_number": 31,
+      "title": "The Prince of Darkness",
+      "sub_tracks": [
+        {
+          "file": "music_main#64 (MST_mus_spiritrealm_foxgodPhase1_intro_3dBlimit).flac"
+        },
+        {
+          "file": "music_main#32 (MST_mus_spiritrealm_foxgodPhase1_loop_3dBlimit).flac"
+        }
+      ],
+      "loop": 394925
+    },
+    {
+      "track_number": 32,
+      "title": "Power of the Gods",
+      "sub_tracks": [
+        {
+          "file": "music_main#60 (MST_mus_end_gameoverGood_intro).flac"
+        },
+        {
+          "file": "music_main#149 (MST_mus_end_gameoverGood_loop).flac"
+        }
+      ],
+      "loop": 1209601
+    },
+    {
+      "track_number": 33,
+      "title": "Epilogue - Beautiful Hyrule",
+      "sub_tracks": [
+        {
+          "file": "music_main#137 (MST_mus_end_creditsBad).flac",
+          "trim_end": 6714096,
+          "fade_out": 300000
+        },
+        {
+          "file": "Early Birds.flac",
+          "trim_end": 667141
+        },
+        {
+          "file": "Early Birds.flac",
+          "trim_start": 8806
+        }
+      ]
+    },
+    {
+      "track_number": 34,
+      "title": "Staff Roll",
+      "sub_tracks": [
+        {
+          "file": "music_main#73 (MST_mus_end_creditsGood).flac",
+          "trim_end": 1537725
+        },
+        {
+          "file": "music_main#73 (MST_mus_end_creditsGood).flac",
+          "trim_start": 1147135,
+          "trim_end": 5051972
+        },
+        {
+          "file": "music_main#73 (MST_mus_end_creditsGood).flac",
+          "trim_start": 4271256,
+          "trim_end": 5051972
+        },
+        {
+          "file": "music_main#73 (MST_mus_end_creditsGood).flac",
+          "trim_start": 4271256
+        }
+      ]
+    },
+    {
+      "track_number": 35,
+      "title": "Eastern Palace",
+      "sub_tracks": [
+        {
+          "file": "music_main#13 (MST_mus_library_main_intro).flac"
+        },
+        {
+          "file": "music_main#86 (MST_mus_library_main_loop).flac"
+        }
+      ],
+      "loop": 653343
+    },
+    {
+      "track_number": 36,
+      "title": "Desert Palace",
+      "sub_tracks": [
+        {
+          "file": "music_main#133 (MST_mus_atoll_main_s1_intro).flac"
+        },
+        {
+          "file": "music_main#25 (MST_mus_atoll_main_s1_loop).flac"
+        }
+      ],
+      "loop": 552208
+    },
+    {
+      "track_number": 37,
+      "title": "Aghanim's Tower",
+      "sub_tracks": [
+        {
+          "file": "music_main#204 (MST_mus_fortress_main_intro).flac"
+        },
+        {
+          "file": "music_main#198 (MST_mus_fortress_main_loop).flac"
+        }
+      ],
+      "loop": 2822401
+    },
+    {
+      "track_number": 38,
+      "title": "Swamp Palace",
+      "sub_tracks": [
+        {
+          "file": "music_main#110 (MST_mus_sewer_intro).flac"
+        },
+        {
+          "file": "music_main#140 (MST_mus_sewer_loop).flac"
+        }
+      ],
+      "loop": 1782569
+    },
+    {
+      "track_number": 39,
+      "title": "Palace of Darkness",
+      "sub_tracks": [
+        {
+          "file": "music_main#100 (MST_mus_crypt_intro).flac"
+        },
+        {
+          "file": "music_main#212 (MST_mus_crypt_loop).flac"
+        }
+      ],
+      "loop": 1058401
+    },
+    {
+      "track_number": 40,
+      "title": "Misery Mire",
+      "sub_tracks": [
+        {
+          "file": "sfx_main#2521 (MST_mus_frogcave_sneak_intro).flac"
+        },
+        {
+          "file": "sfx_main#235 (MST_mus_frogcave_sneak_loop).flac"
+        }
+      ],
+      "loop": 1058401
+    },
+    {
+      "track_number": 41,
+      "title": "Skull Woods",
+      "sub_tracks": [
+        {
+          "file": "music_main#132 (MST_mus_ziggurat_oozezone_intro).flac"
+        },
+        {
+          "file": "music_main#57 (MST_mus_ziggurat_oozezone_loop).flac"
+        }
+      ],
+      "loop": 352801
+    },
+    {
+      "track_number": 42,
+      "title": "Ice Palace",
+      "sub_tracks": [
+        {
+          "file": "music_main#178 (MST_mus_ziggurat_arrival_combat_intro).flac"
+        },
+        {
+          "file": "music_main#47 (MST_mus_ziggurat_arrival_combat_loop).flac"
+        }
+      ],
+      "loop": 2513701
+    },
+    {
+      "track_number": 43,
+      "title": "Tower of Hera",
+      "sub_tracks": [
+        {
+          "file": "music_main#91 (MST_mus_fortressCourtyard_preFuse_intro).flac"
+        },
+        {
+          "file": "music_main#135 (MST_mus_fortressCourtyard_preFuse_loop).flac"
+        }
+      ],
+      "loop": 1128960
+    },
+    {
+      "track_number": 44,
+      "title": "Thieves' Town",
+      "sub_tracks": [
+        {
+          "file": "music_main#93 (MST_mus_fortress_basement_intro).flac"
+        },
+        {
+          "file": "music_main#92 (MST_mus_fortress_basement_loop).flac"
+        }
+      ],
+      "loop": 1637692
+    },
+    {
+      "track_number": 45,
+      "title": "Turtle Rock",
+      "sub_tracks": [
+        {
+          "file": "music_main#197 (MST_mus_quarry_main_intro).flac",
+          "trim_start": 771690
+        },
+        {
+          "file": "music_main#188 (MST_mus_quarry_main_loop).flac"
+        }
+      ],
+      "loop": 2198183
+    },
+    {
+      "track_number": 46,
+      "title": "Ganon's Tower",
+      "sub_tracks": [
+        {
+          "file": "music_main#122 (MST_mus_cathedral_main_intro).flac"
+        },
+        {
+          "file": "music_main#4 (MST_mus_cathedral_main_loop).flac"
+        }
+      ],
+      "loop": 1041049
+    },
+    {
+      "track_number": 47,
+      "title": "Armos Knights",
+      "sub_tracks": [
+        {
+          "file": "music_main#48 (MST_mus_forest_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#108 (MST_mus_forest_miniboss_loop).flac"
+        }
+      ],
+      "loop": 381024
+    },
+    {
+      "track_number": 48,
+      "title": "Lanmolas",
+      "sub_tracks": [
+        {
+          "file": "music_main#48 (MST_mus_forest_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#108 (MST_mus_forest_miniboss_loop).flac"
+        }
+      ],
+      "loop": 381024
+    },
+    {
+      "track_number": 49,
+      "title": "Aghanim 1",
+      "file": "music_main#201 (MST_mus_fortress_boss_loop).flac",
+      "loop": 0
+    },
+    {
+      "track_number": 50,
+      "title": "Arrghus",
+      "sub_tracks": [
+        {
+          "file": "sfx_main#1519 (MST_mus_frogcave_fight_intro).flac"
+        },
+        {
+          "file": "sfx_main#1079 (MST_mus_frogcave_fight_loop).flac"
+        }
+      ],
+      "loop": 1058401
+    },
+    {
+      "track_number": 51,
+      "title": "Helmasaur King",
+      "sub_tracks": [
+        {
+          "file": "music_main#3 (MST_mus_gardenknight_intro).flac"
+        },
+        {
+          "file": "music_main#36 (MST_mus_gardenknight_loop).flac"
+        }
+      ],
+      "loop": 336001
+    },
+    {
+      "track_number": 52,
+      "title": "Vitreous",
+      "sub_tracks": [
+        {
+          "file": "sfx_main#1519 (MST_mus_frogcave_fight_intro).flac"
+        },
+        {
+          "file": "sfx_main#1079 (MST_mus_frogcave_fight_loop).flac"
+        }
+      ],
+      "loop": 1058401
+    },
+    {
+      "track_number": 53,
+      "title": "Mothula",
+      "sub_tracks": [
+        {
+          "file": "music_main#147 (MST_mus_ziggurat_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#115 (MST_mus_ziggurat_miniboss_loop).flac"
+        }
+      ],
+      "loop": 508033
+    },
+    {
+      "track_number": 54,
+      "title": "Kholdstare",
+      "sub_tracks": [
+        {
+          "file": "music_main#147 (MST_mus_ziggurat_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#115 (MST_mus_ziggurat_miniboss_loop).flac"
+        }
+      ],
+      "loop": 508033
+    },
+    {
+      "track_number": 55,
+      "title": "Moldorm",
+      "sub_tracks": [
+        {
+          "file": "music_main#48 (MST_mus_forest_miniboss_intro).flac"
+        },
+        {
+          "file": "music_main#108 (MST_mus_forest_miniboss_loop).flac"
+        }
+      ],
+      "loop": 381024
+    },
+    {
+      "track_number": 56,
+      "title": "Blind",
+      "sub_tracks": [
+        {
+          "file": "music_main#3 (MST_mus_gardenknight_intro).flac"
+        },
+        {
+          "file": "music_main#36 (MST_mus_gardenknight_loop).flac"
+        }
+      ],
+      "loop": 336001
+    },
+    {
+      "track_number": 57,
+      "title": "Trinexx",
+      "sub_tracks": [
+        {
+          "file": "music_main#155 (MST_mus_ziggurat_boss_main_intro).flac"
+        },
+        {
+          "file": "music_main#127 (MST_mus_ziggurat_boss_main_loop).flac"
+        }
+      ],
+      "loop": 264601
+    },
+    {
+      "track_number": 58,
+      "title": "Aghanim 2",
+      "sub_tracks": [
+        {
+          "file": "music_main#207 (MST_mus_librarian_intro).flac"
+        },
+        {
+          "file": "music_main#98 (MST_mus_librarian_loop).flac"
+        }
+      ],
+      "loop": 773581
+    },
+    {
+      "track_number": 59,
+      "title": "Ganon's Tower (Upstairs)",
+      "sub_tracks": [
+        {
+          "file": "music_main#163 (MST_mus_gauntlet_main_intro).flac"
+        },
+        {
+          "file": "music_main#107 (MST_mus_gauntlet_main_loop).flac"
+        }
+      ],
+      "loop": 1285201
+    },
+    {
+      "track_number": 60,
+      "title": "Light World After Pedestal",
+      "sub_tracks": [
+        {
+          "file": "music_main#87 (MST_mus_overworld_indoors_intro).flac"
+        },
+        {
+          "file": "music_main#114 (MST_mus_overworld_indoors_loop).flac"
+        }
+      ],
+      "loop": 1058458
+    },
+    {
+      "track_number": 61,
+      "title": "Dark World After 7 Crystals",
+      "sub_tracks": [
+        {
+          "file": "music_main#187 (MST_mus_forest_mainNight_intro).flac"
+        },
+        {
+          "file": "music_main#151 (MST_mus_forest_mainNight_loop).flac"
+        }
+      ],
+      "loop": 3524839
+    }
+  ]
+}
