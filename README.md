@@ -20,6 +20,10 @@ MSU JSON for the TUNIC soundtrack.
 
 Hey, now you have MSU files to attach to your ROM!
 
+## Notes
+
+The music is super loud in the game. It's been normalized to -10. If that's still too loud, fiddle with line 8 in the JSON. Also bear in mind that a couple of tracks have been manually set to 0, since they're quiet.
+
 ## Contact
 
 Me if something is wrong. If you have song placement recommendations, they will be ignored. `fantallis#3161` on Discord.
