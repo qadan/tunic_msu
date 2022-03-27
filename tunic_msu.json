@@ -5,7 +5,7 @@
   "artist": "Lifeformed x Janice Kwan",
   "url": "https://store.steampowered.com/app/1928140/TUNIC_Original_Game_Soundtrack/",
   "output_prefix": "tunic_msu",
-  "normalization": -10,
+  "normalization": -19,
   "tracks": [
     {
       "track_number": 1,
